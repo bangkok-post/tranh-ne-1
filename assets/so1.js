@@ -1,7 +1,7 @@
 jQuery(document).ready(function($) {
     // -------------spin-------------------
     var buttons = document.querySelectorAll(".js_btn_xacnhan");
-    var api = './assets/content1';
+    var api = './assets/duramax';
     var d = new Date();
     var month = d.getMonth()+1;
     var day = d.getDate();
